@@ -1,8 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications
 
+  - title: "Reading Groups"
+    url: /reading_groups
   # - title: "Talks"
   #   url: /talks/    
 
